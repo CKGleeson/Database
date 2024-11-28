@@ -41,6 +41,7 @@ HAVING
     AND AVG(t.ticket_price) > 20;        -- Filter for artists with an average ticket price greater than 20
 
 
+-- TASK 4
 -- =============================================================
 -- Author: Tommy Quinn
 -- Description: 
@@ -97,7 +98,7 @@ END$$
 DELIMITER ;
 
 
---Task 5
+--TASK 5
 -- ================================================================================
 -- Author: Sean Coughlan
 -- Description: 
@@ -124,7 +125,7 @@ BEGIN
 END;
 
 
- --Task 6
+-- TASK 6
 -- ================================================================================
 -- Author: Sean Conneally
 -- Description:
